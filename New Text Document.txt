@@ -1,0 +1,2 @@
+https://phamdinhkhanh.github.io/deepai-book/ch_ml/FeatureEngineering.html
+https://machinelearningcoban.com/tabml_book/ch_data_processing/timeseries_data.html
